@@ -21,11 +21,6 @@
 #  MA 02110-1301, USA.
 
 import feedparser
-import datetime
-from icalendar import Calendar
-import pytz
-import datetime
-
 
 
 class Events(object):
