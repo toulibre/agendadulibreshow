@@ -3,7 +3,7 @@
 #
 #  app.py
 #  
-#  Copyright 2013 Toulibre <contact@toulibre.org>
+#  Copyright 2013 numahell <numahell@numajules.net>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
