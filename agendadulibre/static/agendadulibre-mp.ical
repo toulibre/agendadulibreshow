@@ -1,0 +1,1178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AgendaDuLibre.org
+X-WR-CALNAME:Agenda du Libre - Rhône-Alpes
+X-WR-TIMEZONE:Europe/Paris
+CALSCALE:GREGORIAN
+X-WR-CALDESC:L'Agenda des évènements autour du Libre en région Rhône-Alpes
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130207T200000
+DTEND;TZID=Europe/Paris:20130207T223000
+UID:7463@agendadulibre.org
+SUMMARY:Premier jeudi d'Alpinux : audio et vidéo
+URL:http://www.agendadulibre.org/showevent.php?id=7463
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130724T190000
+DTEND;TZID=Europe/Paris:20130724T220000
+UID:7852@agendadulibre.org
+SUMMARY:AperoPHP du mois de juillet
+URL:http://www.agendadulibre.org/showevent.php?id=7852
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20121220T200000
+DTEND;TZID=Europe/Paris:20121220T223000
+UID:7428@agendadulibre.org
+SUMMARY:Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7428
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130822T120000
+DTEND;TZID=Europe/Paris:20130825T120000
+UID:7851@agendadulibre.org
+SUMMARY:GNU Hackers Meeting 2013 — Paris, France
+URL:http://www.agendadulibre.org/showevent.php?id=7851
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20121220T190000
+DTEND;TZID=Europe/Paris:20121220T220000
+UID:7308@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7308
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130117T190000
+DTEND;TZID=Europe/Paris:20130117T220000
+UID:7309@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7309
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130214T190000
+DTEND;TZID=Europe/Paris:20130214T220000
+UID:7310@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7310
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130321T190000
+DTEND;TZID=Europe/Paris:20130321T220000
+UID:7311@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7311
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130418T190000
+DTEND;TZID=Europe/Paris:20130418T220000
+UID:7312@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7312
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130523T190000
+DTEND;TZID=Europe/Paris:20130523T220000
+UID:7313@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7313
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130613T190000
+DTEND;TZID=Europe/Paris:20130613T220000
+UID:7314@agendadulibre.org
+SUMMARY:Jeudi De La Bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7314
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20121206T200000
+DTEND;TZID=Europe/Paris:20121206T223000
+UID:7368@agendadulibre.org
+SUMMARY:Premier jeudi d'Alpinux : bureautique
+URL:http://www.agendadulibre.org/showevent.php?id=7368
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130126T090000
+DTEND;TZID=Europe/Paris:20130126T170000
+UID:7454@agendadulibre.org
+SUMMARY:Journée Enlightenment France
+URL:http://www.agendadulibre.org/showevent.php?id=7454
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130214T090000
+DTEND;TZID=Europe/Paris:20130214T120000
+UID:7380@agendadulibre.org
+SUMMARY:Matinée de formation gratuite "Découverte de Drupal"
+URL:http://www.agendadulibre.org/showevent.php?id=7380
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130117T200000
+DTEND;TZID=Europe/Paris:20130117T223000
+UID:7453@agendadulibre.org
+SUMMARY:Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7453
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20121215T140000
+DTEND;TZID=Europe/Paris:20121215T180000
+UID:7419@agendadulibre.org
+SUMMARY:Découverte de logiciels libres consacrés à la photographie.
+URL:http://www.agendadulibre.org/showevent.php?id=7419
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Gruffy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130108T190000
+DTEND;TZID=Europe/Paris:20130108T220000
+UID:7442@agendadulibre.org
+SUMMARY:Informatique Légale et Logiciel Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7442
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130110T193000
+DTEND;TZID=Europe/Paris:20130110T210000
+UID:7445@agendadulibre.org
+SUMMARY:Jeudi du libre de l'ALDIL : PAO et logiciels libres
+URL:http://www.agendadulibre.org/showevent.php?id=7445
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130121T080000
+DTEND;TZID=Europe/Paris:20130121T190000
+UID:7449@agendadulibre.org
+SUMMARY:1ers États Généraux de l'Open Source
+URL:http://www.agendadulibre.org/showevent.php?id=7449
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130124T190000
+DTEND;TZID=Europe/Paris:20130124T213000
+UID:7450@agendadulibre.org
+SUMMARY:Créer un site Drupal par le code
+URL:http://www.agendadulibre.org/showevent.php?id=7450
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130223T100000
+DTEND;TZID=Europe/Paris:20130224T180000
+UID:7458@agendadulibre.org
+SUMMARY:Week-end OpenStreetMap à Lyon
+URL:http://www.agendadulibre.org/showevent.php?id=7458
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130118T200000
+DTEND;TZID=Europe/Paris:20130118T234500
+UID:7461@agendadulibre.org
+SUMMARY:Réunion bimensuelle AGU3L
+URL:http://www.agendadulibre.org/showevent.php?id=7461
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Gruffy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130221T200000
+DTEND;TZID=Europe/Paris:20130221T223000
+UID:7516@agendadulibre.org
+SUMMARY:Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7516
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130207T193000
+DTEND;TZID=Europe/Paris:20130207T210000
+UID:7497@agendadulibre.org
+SUMMARY:Jeudi du libre de l'ALDIL : l'auto-hébergement
+URL:http://www.agendadulibre.org/showevent.php?id=7497
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130323T100000
+DTEND;TZID=Europe/Paris:20130324T140000
+UID:7504@agendadulibre.org
+SUMMARY:AG de l'AFUL
+URL:http://www.agendadulibre.org/showevent.php?id=7504
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Angers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130308T140000
+DTEND;TZID=Europe/Paris:20130310T190000
+UID:7519@agendadulibre.org
+SUMMARY:Primevère Espace Numérique Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7519
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chassieu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130223T100000
+DTEND;TZID=Europe/Paris:20130223T170000
+UID:7529@agendadulibre.org
+SUMMARY:Install party
+URL:http://www.agendadulibre.org/showevent.php?id=7529
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130316T100000
+DTEND;TZID=Europe/Paris:20130316T120000
+UID:7533@agendadulibre.org
+SUMMARY:Découverte du Libre et Install Party
+URL:http://www.agendadulibre.org/showevent.php?id=7533
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lentilly
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130306T090000
+DTEND;TZID=Europe/Paris:20130306T190000
+UID:7536@agendadulibre.org
+SUMMARY:Openday Découverte du libre
+URL:http://www.agendadulibre.org/showevent.php?id=7536
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Bron
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130329T190000
+DTEND;TZID=Europe/Paris:20130329T220000
+UID:7543@agendadulibre.org
+SUMMARY:1er Atelier montages Audio Video
+URL:http://www.agendadulibre.org/showevent.php?id=7543
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chatillon Azergues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130405T190000
+DTEND;TZID=Europe/Paris:20130405T220000
+UID:7544@agendadulibre.org
+SUMMARY:2ieme Atelier montages Audio Video
+URL:http://www.agendadulibre.org/showevent.php?id=7544
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chatillon Azergues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130316T100000
+DTEND;TZID=Europe/Paris:20130316T170000
+UID:7548@agendadulibre.org
+SUMMARY:Install party
+URL:http://www.agendadulibre.org/showevent.php?id=7548
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130316T093000
+DTEND;TZID=Europe/Paris:20130316T180000
+UID:7555@agendadulibre.org
+SUMMARY:Cartopartie OpenStreetMap d'initiation
+URL:http://www.agendadulibre.org/showevent.php?id=7555
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Pierre-Châtel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130316T100000
+DTEND;TZID=Europe/Paris:20130316T120000
+UID:7556@agendadulibre.org
+SUMMARY:Initiation Writer et Scribus
+URL:http://www.agendadulibre.org/showevent.php?id=7556
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130323T100000
+DTEND;TZID=Europe/Paris:20130323T120000
+UID:7557@agendadulibre.org
+SUMMARY:Initiation Impress et Inkscape
+URL:http://www.agendadulibre.org/showevent.php?id=7557
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130330T100000
+DTEND;TZID=Europe/Paris:20130330T120000
+UID:7558@agendadulibre.org
+SUMMARY:Retouche et gestion photos
+URL:http://www.agendadulibre.org/showevent.php?id=7558
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130406T100000
+DTEND;TZID=Europe/Paris:20130406T120000
+UID:7559@agendadulibre.org
+SUMMARY:Montage audio avec Audacity
+URL:http://www.agendadulibre.org/showevent.php?id=7559
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130413T100000
+DTEND;TZID=Europe/Paris:20130413T120000
+UID:7560@agendadulibre.org
+SUMMARY:Site Web avec Wordpress 
+URL:http://www.agendadulibre.org/showevent.php?id=7560
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130330T140000
+DTEND;TZID=Europe/Paris:20130330T180000
+UID:7561@agendadulibre.org
+SUMMARY:Install Party
+URL:http://www.agendadulibre.org/showevent.php?id=7561
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130329T140000
+DTEND;TZID=Europe/Paris:20130329T170000
+UID:7562@agendadulibre.org
+SUMMARY:Zone Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7562
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130406T150000
+DTEND;TZID=Europe/Paris:20130406T170000
+UID:7563@agendadulibre.org
+SUMMARY:Zone Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7563
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130413T150000
+DTEND;TZID=Europe/Paris:20130413T180000
+UID:7564@agendadulibre.org
+SUMMARY:Zone Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7564
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130329T150000
+DTEND;TZID=Europe/Paris:20130329T170000
+UID:7566@agendadulibre.org
+SUMMARY:Créer votre carte de visite sous Inkscape
+URL:http://www.agendadulibre.org/showevent.php?id=7566
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130316T150000
+DTEND;TZID=Europe/Paris:20130316T170000
+UID:7568@agendadulibre.org
+SUMMARY:Je crée, mais après ?
+URL:http://www.agendadulibre.org/showevent.php?id=7568
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130301T100000
+DTEND;TZID=Europe/Paris:20130430T190000
+UID:7569@agendadulibre.org
+SUMMARY:Retoucher ses photos avec Gimp
+URL:http://www.agendadulibre.org/showevent.php?id=7569
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130405T170000
+DTEND;TZID=Europe/Paris:20130405T190000
+UID:7570@agendadulibre.org
+SUMMARY:Créer une couverture de livre avec Gimp
+URL:http://www.agendadulibre.org/showevent.php?id=7570
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130419T170000
+DTEND;TZID=Europe/Paris:20130419T190000
+UID:7572@agendadulibre.org
+SUMMARY:Recherche ressources libres désespérement
+URL:http://www.agendadulibre.org/showevent.php?id=7572
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130323T160000
+DTEND;TZID=Europe/Paris:20130323T180000
+UID:7579@agendadulibre.org
+SUMMARY:Partie de stratégie en multijoueur
+URL:http://www.agendadulibre.org/showevent.php?id=7579
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lentilly
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130323T100000
+DTEND;TZID=Europe/Paris:20130323T170000
+UID:7585@agendadulibre.org
+SUMMARY:Programmation, auto-hébergement, install-party
+URL:http://www.agendadulibre.org/showevent.php?id=7585
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130323T083000
+DTEND;TZID=Europe/Paris:20130324T180000
+UID:7608@agendadulibre.org
+SUMMARY:JoomlaDay France
+URL:http://www.agendadulibre.org/showevent.php?id=7608
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Toulouse
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130419T140000
+DTEND;TZID=Europe/Paris:20130421T180000
+UID:7610@agendadulibre.org
+SUMMARY:DevCamp Dolibarr ERP/CRM
+URL:http://www.agendadulibre.org/showevent.php?id=7610
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Montpellier
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130314T193000
+DTEND;TZID=Europe/Paris:20130314T210000
+UID:7612@agendadulibre.org
+SUMMARY:Jeudi du libre de l'ALDIL : sécurisez vos communications avec OpenPGP
+URL:http://www.agendadulibre.org/showevent.php?id=7612
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130322T190000
+DTEND;TZID=Europe/Paris:20130322T220000
+UID:7616@agendadulibre.org
+SUMMARY:Install Partie à cap génération
+URL:http://www.agendadulibre.org/showevent.php?id=7616
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chatillon Azergues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130621T090000
+DTEND;TZID=Europe/Paris:20130623T190000
+UID:7618@agendadulibre.org
+SUMMARY:DrupalCamp Paris 2013 - Save the Date !
+URL:http://www.agendadulibre.org/showevent.php?id=7618
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130328T190000
+DTEND;TZID=Europe/Paris:20130328T220000
+UID:7647@agendadulibre.org
+SUMMARY:Apéro PHP
+URL:http://www.agendadulibre.org/showevent.php?id=7647
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130323T140000
+DTEND;TZID=Europe/Paris:20130323T180000
+UID:7633@agendadulibre.org
+SUMMARY:Première wikipermanence à Grenoble
+URL:http://www.agendadulibre.org/showevent.php?id=7633
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130420T140000
+DTEND;TZID=Europe/Paris:20130420T180000
+UID:7634@agendadulibre.org
+SUMMARY:Wikipermanence
+URL:http://www.agendadulibre.org/showevent.php?id=7634
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130322T190000
+DTEND;TZID=Europe/Paris:20130322T210000
+UID:7635@agendadulibre.org
+SUMMARY:Fabriquer ses objets avec l'Open-source
+URL:http://www.agendadulibre.org/showevent.php?id=7635
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Bron
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130330T100000
+DTEND;TZID=Europe/Paris:20130330T123000
+UID:7637@agendadulibre.org
+SUMMARY:Install party - Découverte logiciels libres 
+URL:http://www.agendadulibre.org/showevent.php?id=7637
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chassieu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130328T093000
+DTEND;TZID=Europe/Paris:20130329T173000
+UID:7638@agendadulibre.org
+SUMMARY:Rencontres de l'Orme 2.13 : Espace thématique du Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7638
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Marseille
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130321T200000
+DTEND;TZID=Europe/Paris:20130321T223000
+UID:7665@agendadulibre.org
+SUMMARY:Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7665
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130325T180000
+DTEND;TZID=Europe/Paris:20130325T200000
+UID:7669@agendadulibre.org
+SUMMARY:LibreOffice 4.0 et ses personalisations
+URL:http://www.agendadulibre.org/showevent.php?id=7669
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grigny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130412T140000
+DTEND;TZID=Europe/Paris:20130413T170000
+UID:7689@agendadulibre.org
+SUMMARY:Install-party des Savoie
+URL:http://www.agendadulibre.org/showevent.php?id=7689
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130524T083000
+DTEND;TZID=Europe/Paris:20130527T193000
+UID:7685@agendadulibre.org
+SUMMARY:wwx2013 Worlwide Haxe Conference
+URL:http://www.agendadulibre.org/showevent.php?id=7685
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130425T190000
+DTEND;TZID=Europe/Paris:20130425T213000
+UID:7705@agendadulibre.org
+SUMMARY:conférence Drupal "Altération du comportement du Core"
+URL:http://www.agendadulibre.org/showevent.php?id=7705
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130418T200000
+DTEND;TZID=Europe/Paris:20130418T223000
+UID:7710@agendadulibre.org
+SUMMARY:Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7710
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130601T093000
+DTEND;TZID=Europe/Paris:20130601T190000
+UID:7711@agendadulibre.org
+SUMMARY:Journée (La)TeX de l'association GUTenberg
+URL:http://www.agendadulibre.org/showevent.php?id=7711
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130521T090000
+DTEND;TZID=Europe/Paris:20130521T120000
+UID:7713@agendadulibre.org
+SUMMARY:Le Tour de France du Logiciel Libre ! 
+URL:http://www.agendadulibre.org/showevent.php?id=7713
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130613T090000
+DTEND;TZID=Europe/Paris:20130613T180000
+UID:7719@agendadulibre.org
+SUMMARY:Une journée de conférences sur le SGBD PostgreSQL
+URL:http://www.agendadulibre.org/showevent.php?id=7719
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Nantes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130528T091900
+DTEND;TZID=Europe/Paris:20130529T091800
+UID:7737@agendadulibre.org
+SUMMARY:Solutions Libres / Open source
+URL:http://www.agendadulibre.org/showevent.php?id=7737
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130525T140000
+DTEND;TZID=Europe/Paris:20130525T180000
+UID:7740@agendadulibre.org
+SUMMARY:Wikipermanence sur le projet Wikidata
+URL:http://www.agendadulibre.org/showevent.php?id=7740
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130623T140000
+DTEND;TZID=Europe/Paris:20130623T180000
+UID:7741@agendadulibre.org
+SUMMARY:Wikipermanence OpenStreetMap et Wikipédia
+URL:http://www.agendadulibre.org/showevent.php?id=7741
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130721T140000
+DTEND;TZID=Europe/Paris:20130721T180000
+UID:7742@agendadulibre.org
+SUMMARY:Wikipermanence Wikipédia et les images
+URL:http://www.agendadulibre.org/showevent.php?id=7742
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20140412T090000
+DTEND;TZID=Europe/Paris:20140413T180000
+UID:7753@agendadulibre.org
+SUMMARY:Journées du logiciel libre (JDLL)
+URL:http://www.agendadulibre.org/showevent.php?id=7753
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130516T200000
+DTEND;TZID=Europe/Paris:20130516T223000
+UID:7754@agendadulibre.org
+SUMMARY:Chambéry : Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7754
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130614T100000
+DTEND;TZID=Europe/Paris:20130615T180000
+UID:7756@agendadulibre.org
+SUMMARY:Journées Perl 2013
+URL:http://www.agendadulibre.org/showevent.php?id=7756
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Nancy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130529T180000
+DTEND;TZID=Europe/Paris:20130529T220000
+UID:7759@agendadulibre.org
+SUMMARY:Comprendre, utiliser et installer du logiciel libre
+URL:http://www.agendadulibre.org/showevent.php?id=7759
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Cran-Gevrier
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130606T200000
+DTEND;TZID=Europe/Paris:20130606T223000
+UID:7804@agendadulibre.org
+SUMMARY:1er jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7804
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130614T090000
+DTEND;TZID=Europe/Paris:20130614T120000
+UID:7777@agendadulibre.org
+SUMMARY:Tour de France Thelia
+URL:http://www.agendadulibre.org/showevent.php?id=7777
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130623T120000
+DTEND;TZID=Europe/Paris:20130623T150000
+UID:7779@agendadulibre.org
+SUMMARY:Pique-nique du libre
+URL:http://www.agendadulibre.org/showevent.php?id=7779
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130605T080000
+DTEND;TZID=Europe/Paris:20130606T163000
+UID:7780@agendadulibre.org
+SUMMARY:EclipseCon France 2013
+URL:http://www.agendadulibre.org/showevent.php?id=7780
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Toulouse
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130606T093000
+DTEND;TZID=Europe/Paris:20130606T123000
+UID:7808@agendadulibre.org
+SUMMARY:Le Tour de France du Logiciel Libre fait étape à Lyon
+URL:http://www.agendadulibre.org/showevent.php?id=7808
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130624T184500
+DTEND;TZID=Europe/Paris:20130624T223000
+UID:7814@agendadulibre.org
+SUMMARY:Meetup#4 OpenStack, secrets de production, scale avec Ceph, communauté française
+URL:http://www.agendadulibre.org/showevent.php?id=7814
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130627T190000
+DTEND;TZID=Europe/Paris:20130627T230000
+UID:7819@agendadulibre.org
+SUMMARY:Soirée d'inauguration pour PHP 5.5
+URL:http://www.agendadulibre.org/showevent.php?id=7819
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Le Kremlin-Bicêtre
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130627T180000
+DTEND;TZID=Europe/Paris:20130627T215500
+UID:7820@agendadulibre.org
+SUMMARY:Pique-nique du libre
+URL:http://www.agendadulibre.org/showevent.php?id=7820
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131116T110000
+DTEND;TZID=Europe/Paris:20131117T180000
+UID:7846@agendadulibre.org
+SUMMARY:Ubuntu Party
+URL:http://www.agendadulibre.org/showevent.php?id=7846
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130620T200000
+DTEND;TZID=Europe/Paris:20130620T223000
+UID:7827@agendadulibre.org
+SUMMARY:Troisième jeudi d'Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7827
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131118T083000
+DTEND;TZID=Europe/Paris:20131119T183000
+UID:7853@agendadulibre.org
+SUMMARY:LDAPCon 2013
+URL:http://www.agendadulibre.org/showevent.php?id=7853
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130719T140000
+DTEND;TZID=Europe/Paris:20130721T220000
+UID:7839@agendadulibre.org
+SUMMARY:Ubuntu et infothema au festival des Vieilles Charrues 2013
+URL:http://www.agendadulibre.org/showevent.php?id=7839
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Carhaix
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130711T190000
+DTEND;TZID=Europe/Paris:20130711T213000
+UID:7843@agendadulibre.org
+SUMMARY:Table ronde "Héberger des sites Drupal"
+URL:http://www.agendadulibre.org/showevent.php?id=7843
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130924T090000
+DTEND;TZID=Europe/Paris:20130925T183000
+UID:7845@agendadulibre.org
+SUMMARY:Kernel Recipes 2013
+URL:http://www.agendadulibre.org/showevent.php?id=7845
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131004T090000
+DTEND;TZID=Europe/Paris:20131005T190000
+UID:7863@agendadulibre.org
+SUMMARY:OSDC.fr, Conférence multilangage
+URL:http://www.agendadulibre.org/showevent.php?id=7863
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Montrouge
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130907T140000
+DTEND;TZID=Europe/Paris:20130907T180000
+UID:7866@agendadulibre.org
+SUMMARY:Rencontres Fedora 19
+URL:http://www.agendadulibre.org/showevent.php?id=7866
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131121T090000
+DTEND;TZID=Europe/Paris:20131122T190000
+UID:7867@agendadulibre.org
+SUMMARY:Forum PHP
+URL:http://www.agendadulibre.org/showevent.php?id=7867
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Montrouge
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130822T100000
+DTEND;TZID=Europe/Paris:20130825T180000
+UID:7870@agendadulibre.org
+SUMMARY:2es Rencontres mondiales du logiciel libre décentralisées
+URL:http://www.agendadulibre.org/showevent.php?id=7870
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Saint-Joseph
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130920T180000
+DTEND;TZID=Europe/Paris:20130920T203000
+UID:7903@agendadulibre.org
+SUMMARY:Conférence de Richard Stallman sur le thème For A Free Digital Society
+URL:http://www.agendadulibre.org/showevent.php?id=7903
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130921T140000
+DTEND;TZID=Europe/Paris:20130921T180000
+UID:7906@agendadulibre.org
+SUMMARY:Journée Mondiale du Logiciel Libre samedi 21 Septembre, 2013.
+URL:http://www.agendadulibre.org/showevent.php?id=7906
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Rouen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130903T190000
+DTEND;TZID=Europe/Paris:20130903T220000
+UID:7908@agendadulibre.org
+SUMMARY:Barbecue de rentrée de la Guilde
+URL:http://www.agendadulibre.org/showevent.php?id=7908
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131003T190000
+DTEND;TZID=Europe/Paris:20131003T220000
+UID:7934@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7934
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130919T190000
+DTEND;TZID=Europe/Paris:20130919T213000
+UID:7933@agendadulibre.org
+SUMMARY:conférence Drupal ""Présentation du module Limesurvey Sync""
+URL:http://www.agendadulibre.org/showevent.php?id=7933
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131121T190000
+DTEND;TZID=Europe/Paris:20131121T220000
+UID:7936@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7936
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131219T190000
+DTEND;TZID=Europe/Paris:20131219T220000
+UID:7937@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7937
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20140123T190000
+DTEND;TZID=Europe/Paris:20140123T220000
+UID:7938@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7938
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20140220T190000
+DTEND;TZID=Europe/Paris:20140220T220000
+UID:7939@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7939
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20140417T190000
+DTEND;TZID=Europe/Paris:20140417T220000
+UID:7940@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7940
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20140619T190000
+DTEND;TZID=Europe/Paris:20140619T220000
+UID:7941@agendadulibre.org
+SUMMARY:Jeudi bidouille
+URL:http://www.agendadulibre.org/showevent.php?id=7941
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130925T190000
+DTEND;TZID=Europe/Paris:20130925T220000
+UID:7945@agendadulibre.org
+SUMMARY:Apéros PHP/Python du mois de septembre
+URL:http://www.agendadulibre.org/showevent.php?id=7945
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130921T150000
+DTEND;TZID=Europe/Paris:20130921T233000
+UID:7949@agendadulibre.org
+SUMMARY:Célébrer les 30 ans de GNU
+URL:http://www.agendadulibre.org/showevent.php?id=7949
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131017T193000
+DTEND;TZID=Europe/Paris:20131017T210000
+UID:7953@agendadulibre.org
+SUMMARY:Internet et Biens Communs
+URL:http://www.agendadulibre.org/showevent.php?id=7953
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20130921T090000
+DTEND;TZID=Europe/Paris:20130921T163000
+UID:7956@agendadulibre.org
+SUMMARY:Cartopartie OpenStreetMap
+URL:http://www.agendadulibre.org/showevent.php?id=7956
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Die
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131003T090000
+DTEND;TZID=Europe/Paris:20131005T190000
+UID:7959@agendadulibre.org
+SUMMARY:Open Word Forum : Le premier forum libre et open source européen Paris, 3-5 octobre 2013
+URL:http://www.agendadulibre.org/showevent.php?id=7959
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Montrouge
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131001T190000
+DTEND;TZID=Europe/Paris:20131001T220000
+UID:7971@agendadulibre.org
+SUMMARY:Lug : Mardi 1er octobre à Grenoble : conférence "Retour d'expérience ZFS"
+URL:http://www.agendadulibre.org/showevent.php?id=7971
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131123T110000
+DTEND;TZID=Europe/Paris:20131124T170000
+UID:7974@agendadulibre.org
+SUMMARY:Capitole du Libre
+URL:http://www.agendadulibre.org/showevent.php?id=7974
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Toulouse
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131003T200000
+DTEND;TZID=Europe/Paris:20131003T224500
+UID:7979@agendadulibre.org
+SUMMARY:Réunion publique Alpinux
+URL:http://www.agendadulibre.org/showevent.php?id=7979
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Chambéry
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131017T190000
+DTEND;TZID=Europe/Paris:20131017T213000
+UID:7980@agendadulibre.org
+SUMMARY:Conférence "Multilingue et Drupal"
+URL:http://www.agendadulibre.org/showevent.php?id=7980
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131109T093000
+DTEND;TZID=Europe/Paris:20131109T180000
+UID:8028@agendadulibre.org
+SUMMARY:Expériences numériques avec Install party
+URL:http://www.agendadulibre.org/showevent.php?id=8028
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:LYON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131109T100000
+DTEND;TZID=Europe/Paris:20131111T180000
+UID:7986@agendadulibre.org
+SUMMARY:Alchimie X
+URL:http://www.agendadulibre.org/showevent.php?id=7986
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Tain l'Hermitage
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131010T103000
+DTEND;TZID=Europe/Paris:20131010T170000
+UID:7987@agendadulibre.org
+SUMMARY:MySQL Tech Day
+URL:http://www.agendadulibre.org/showevent.php?id=7987
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131018T200000
+DTEND;TZID=Europe/Paris:20131018T223000
+UID:8047@agendadulibre.org
+SUMMARY:Réunion bimensuelle de l'AGU3L
+URL:http://www.agendadulibre.org/showevent.php?id=8047
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Gruffy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131206T100000
+DTEND;TZID=Europe/Paris:20131208T183000
+UID:8048@agendadulibre.org
+SUMMARY:patch -p1, hackathon Perl
+URL:http://www.agendadulibre.org/showevent.php?id=8048
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131115T200000
+DTEND;TZID=Europe/Paris:20131115T223000
+UID:8053@agendadulibre.org
+SUMMARY:Permanence et présentation flash LaTeX
+URL:http://www.agendadulibre.org/showevent.php?id=8053
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Gruffy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131129T200000
+DTEND;TZID=Europe/Paris:20131129T203000
+UID:8054@agendadulibre.org
+SUMMARY:Réunion bimensuelle de l'AGU3L
+URL:http://www.agendadulibre.org/showevent.php?id=8054
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Gruffy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131107T193000
+DTEND;TZID=Europe/Paris:20131107T210000
+UID:8085@agendadulibre.org
+SUMMARY:Jeudi du libre de l'ALDIL : Mozilla Webmaker
+URL:http://www.agendadulibre.org/showevent.php?id=8085
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131116T140000
+DTEND;TZID=Europe/Paris:20131116T170000
+UID:8087@agendadulibre.org
+SUMMARY:Conférence sur Logiciel et Culture Libres
+URL:http://www.agendadulibre.org/showevent.php?id=8087
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:LYON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131130T140000
+DTEND;TZID=Europe/Paris:20131130T180000
+UID:8088@agendadulibre.org
+SUMMARY:Install party
+URL:http://www.agendadulibre.org/showevent.php?id=8088
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131116T140000
+DTEND;TZID=Europe/Paris:20131116T180000
+UID:8106@agendadulibre.org
+SUMMARY:Journée Mensuelle du Logiciel Libre samedi 16 Novembre, 2013.
+URL:http://www.agendadulibre.org/showevent.php?id=8106
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Rouen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131214T140000
+DTEND;TZID=Europe/Paris:20131214T180000
+UID:8107@agendadulibre.org
+SUMMARY:Journée Mensuelle du Logiciel Libre samedi 14 Décembre, 2013.
+URL:http://www.agendadulibre.org/showevent.php?id=8107
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Rouen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131203T190000
+DTEND;TZID=Europe/Paris:20131203T220000
+UID:8125@agendadulibre.org
+SUMMARY: Avoir une vie privée sur Internet
+URL:http://www.agendadulibre.org/showevent.php?id=8125
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Grenoble
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131213T200000
+DTEND;TZID=Europe/Paris:20131213T220000
+UID:8130@agendadulibre.org
+SUMMARY:Cryptographie pour les nuls
+URL:http://www.agendadulibre.org/showevent.php?id=8130
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Gruffy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Paris:20131212T190000
+DTEND;TZID=Europe/Paris:20131212T213000
+UID:8135@agendadulibre.org
+SUMMARY:Conférence "Comment intégrer une maquette HTML dans un thème Drupal : Exemple sur un site responsive design"
+URL:http://www.agendadulibre.org/showevent.php?id=8135
+DESCRIPTION:Un évènement de l'Agenda du Libre
+LOCATION:Lyon
+END:VEVENT
+END:VCALENDAR
