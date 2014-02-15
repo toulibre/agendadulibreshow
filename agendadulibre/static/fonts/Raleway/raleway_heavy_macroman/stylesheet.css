@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ralewayheavy';
+    src: url('Raleway-Heavy-webfont.eot');
+    src: url('Raleway-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Raleway-Heavy-webfont.woff') format('woff'),
+         url('Raleway-Heavy-webfont.ttf') format('truetype'),
+         url('Raleway-Heavy-webfont.svg#ralewayheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
