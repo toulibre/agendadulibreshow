@@ -1,16 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+{% extends "base.html" %}
+{% block title %}Toulibre - agenda du libre{% endblock title %}</title>
 
-<head>
-	<title>Accueil</title>
-	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<meta name="generator" content="Geany 1.23.1" />
-</head>
+{% block content %}
 
-<body>
     <h1>Agenda du Libre</h1>
-    <p>Voir les <a href="/agenda">&eacute;v&eacute;nements</a>.</p>
-</body>
+    <p>Cette application en <a href="http://flask.pocoo.org/">Flask</a> permet d'afficher les &eacute;v&eacute;nements de l'agenda du libre &agrave; partir du flux RSS.</p>
+    <p>Voir les <a href="/agenda">&eacute;v&eacute;nements en Midi-pyr&eacute;n&eacute;es</a>.</p>
 
-</html>
+{% endblock %}
