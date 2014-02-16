@@ -11,10 +11,10 @@
 </head>
 
 <body>
-    <h1>Le Logiciel Libre &agrave; Toulouse et en Midi-Pyr&eacute;n&eacute;es</h1>
-	{% for event in events %}
-    <div>{{ event.content[0].value|safe }}</div>
-    {% endfor %}
+    {% block content %}
+        <h1>Toulibre</h1>
+        <p>Contenu</p>
+    {% endblock %}
 </body>
 
 </html>
