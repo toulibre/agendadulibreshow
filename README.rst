@@ -39,8 +39,6 @@ Déploiement avec Apache
 
 Ajouter un virtualhost::
 
-::
-
     <VirtualHost *:80>
         ServerAdmin webmaster@mydomain
         ServerName mydomain
