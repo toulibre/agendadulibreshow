@@ -1,0 +1,9 @@
+<h2>Les prochains &eacute;v&eacute;nements</h2>
+<p>Les &eacute;v&eacute;nements du libre &agrave; Toulouse et en Midi-Pyr&eacute;n&eacute;es, issus de l'<a href="http://agendadulibre.org/" alt="Agenda du Libre" target="blank">agenda du libre</a>.</p>
+<p>Pour que votre &eacute;v&eacute;nement apparaisse ici, proposez-le &agrave; directement &agrave; l'agenda du Libre.</p>
+
+{% for event in events %}
+    <h3>{{ event.title }}</h3>
+    <p>{{ event.summary_detail.value|truncate(140, True) }}</p>
+    <a href="{{ event.links[0].href }}">Voir plus</a>
+{% endfor %}
