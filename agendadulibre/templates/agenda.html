@@ -7,7 +7,7 @@
     <p>Les &eacute;v&eacute;nements du libre &agrave; Toulouse et en Midi-Pyr&eacute;n&eacute;es, issus de l'<a href="http://agendadulibre.org/" alt="Agenda du Libre" target="blank">agenda du libre</a>.</p>
     <p>Pour que votre &eacute;v&eacute;nement apparaisse ici, proposez-le &agrave; directement &agrave; l'agenda du Libre.</p>
 	{% for event in events %}
-    <div>{{ event.content[0].value|safe }}</div>
+    <div>{{ event.content|safe }}</div>
     {% endfor %}
 
 {% endblock content %}

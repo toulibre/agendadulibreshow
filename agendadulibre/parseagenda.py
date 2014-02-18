@@ -33,15 +33,33 @@ class Events(object):
     """
     
     def __init__(self, rss_url=""):
-        self.url = rss_url
+        self.rss_url = rss_url
 
-    def get_events_from_rss(self):
+    def get_events_from_rss(self, rss_url=""):
         """
          From an url retrieve events
 
         @param string rss_url : 
         @return  :
         """
-        d = feedparser.parse(self.url)
-        return d['entries']
+        if rss_url == "" and self.rss_url == "":
+            return None
+        self.rss_url = rss_url
+        d = feedparser.parse(self.rss_url)
+        self.title = d['feed']
+        
+        results = []
+        for e in d['entries']:
+            event = {}
+            event['location'] = e.title.split(' : ')[0]
+            print e.summary
+            event_date_location = e.summary.split('\n\n')[1]
+            event['title'] = e.title.split(' : ')[1]
+            event['date'] = event_date_location.split('\n')[1]
+            event['summary'] = e.summary.split('Description')[1].split('Informations')[0]
+            event['content'] = e.content[0].value
+            event['link'] = e.links[0]
+            results.append(event)
+
+        return results
 
