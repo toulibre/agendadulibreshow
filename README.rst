@@ -55,3 +55,4 @@ Ajouter un virtualhost::
 
 
 .. _`agenda du libre`: http://agendadulibre.org/
+.. _Flask: http://flask.pocoo.org/
