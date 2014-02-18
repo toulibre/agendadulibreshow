@@ -31,15 +31,15 @@ app.debug = True
 @app.route("/")
 def index():
     agenda_mp_url = "http://www.agendadulibre.org/rss.php?region=16&daylimit=20"
-    event_list = parseagenda.Events(agenda_mp_url)
-    events = event_list.get_events_from_rss()
+    event_list = parseagenda.Events()
+    events = event_list.get_events_from_rss(agenda_mp_url)
     return render_template('index.html', events=events)
 
 @app.route("/agenda/")
 def agenda():
     agenda_mp_url = "http://www.agendadulibre.org/rss.php?region=16&daylimit=40"
-    event_list = parseagenda.Events(agenda_mp_url)
-    events = event_list.get_events_from_rss()
+    event_list = parseagenda.Events()
+    events = event_list.get_events_from_rss(agenda_mp_url)
     return render_template('agenda.html', events=events)
 
 
