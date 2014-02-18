@@ -52,7 +52,6 @@ class Events(object):
         for e in d['entries']:
             event = {}
             event['location'] = e.title.split(' : ')[0]
-            print e.summary
             event_date_location = e.summary.split('\n\n')[1]
             event['title'] = e.title.split(' : ')[1]
             event['date'] = event_date_location.split('\n')[1]
