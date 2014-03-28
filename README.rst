@@ -53,6 +53,10 @@ Ajouter un virtualhost::
 
     </VirtualHost>
 
+License
+=======
+
+Ce bout de code est sous `licence MIT <LICENSE.txt>`.
 
 .. _`agenda du libre`: http://agendadulibre.org/
 .. _Flask: http://flask.pocoo.org/
