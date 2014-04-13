@@ -4,7 +4,7 @@ Agenda du libre midi-pyrénées
 
 Récupère le RSS de l'`agenda du libre`_ et l'affiche dans une page web.
 
-Utilise la bibliothèque feedparser pour récupérer le flux RSS, et le microframework python Flask_ pour afficher les événements.
+Utilise la bibliothèque feedparser pour récupérer le flux RSS, et le microframework python Flask_ pour afficher les événements dans une page web.
 
 Installation
 ============
@@ -14,7 +14,8 @@ Pré-requis
 
 ::
 
-    sudo apt-get install python-pip python-virtualenv libapache2-mod-wsgi
+    sudo apt-get install python-pip python-virtualenv 
+    sudo apt-get install libapache2-mod-wsgi # si vous utilisez apache
 
 Installation
 ------------
